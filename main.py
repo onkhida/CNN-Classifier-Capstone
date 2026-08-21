@@ -1,5 +1,5 @@
 def main():
-    print("Hello from cnn-classifier-capstone!")
+    print("Hello from finalproject!")
 
 
 if __name__ == "__main__":
